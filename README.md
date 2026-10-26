@@ -5,4 +5,5 @@ Text text text
 New paragraph
 
 * First
-*  Second
+* Second
+* Third
